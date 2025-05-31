@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasmlbngaol&show_icons=true&locale=en&layout=compact" alt="andreasmlbngaol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreasmlbngaol&show_icons=true&locale=en" alt="andreasmlbngaol" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreasmlbngaol&" alt="andreasmlbngaol" /></p>
