@@ -32,6 +32,8 @@
 ![Pascal](https://img.shields.io/badge/Pascal-00599C?style=for-the-badge)
 
 ### Database / Cloud / Backend
+![Ktor](https://img.shields.io/badge/ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
