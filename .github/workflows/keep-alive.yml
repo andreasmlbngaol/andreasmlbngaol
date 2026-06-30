@@ -1,0 +1,41 @@
+# .github/workflows/keep-alive.yml
+# Ping kedua Hugging Face Space sekali sehari agar tidak "sleep".
+# Job berjalan paralel (concurrent) lewat matrix strategy.
+
+name: Keep HF Spaces Alive
+
+on:
+  schedule:
+    # Cron memakai waktu UTC. '0 3 * * *' = 03:00 UTC = 10:00 WIB setiap hari.
+    - cron: "0 3 * * *"
+  # Bisa juga dijalankan manual dari tab Actions.
+  workflow_dispatch:
+
+jobs:
+  ping:
+    name: Ping $ matrix.name 
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false # jika satu Space gagal, yang lain tetap jalan
+      matrix:
+        include:
+          - name: capek-mikir
+            url: https://andreasmlbngaol-capek-mikir.hf.space
+          - name: identity
+            url: https://andreasmlbngaol-identity.hf.space
+    steps:
+      - name: Ping $ matrix.name 
+        run: |
+          echo "Pinging $ matrix.name  -> $ matrix.url "
+          code=$(curl -sS -L \
+            --retry 5 --retry-delay 15 --retry-all-errors \
+            --connect-timeout 30 --max-time 120 \
+            -o /dev/null -w "%{http_code}" \
+            "$ matrix.url ")
+          echo "HTTP status: $code"
+          if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
+            echo "✅ $ matrix.name  is awake (HTTP $code)"
+          else
+            echo "❌ $ matrix.name  returned HTTP $code"
+            exit 1
+          fi
