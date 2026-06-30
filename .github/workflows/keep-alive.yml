@@ -15,9 +15,15 @@ jobs:
       matrix:
         include:
           - name: capek-mikir
-            url: https://andreasmlbngaol-capek-mikir.hf.space
+            url: https://capek-mikir-7ik.pages.dev
           - name: identity
             url: https://andreasmlbngaol-identity.hf.space
+          - name: tomavue-fe
+            url: https://tomavue.pages.dev
+          - name: tomavue-be
+            url: https://andreasmlbngaol-tomavue-be.hf.space/api/health
+          - name: tomavue-ai
+            url: https://andreasmlbngaol-tomavue-ai.hf.space/health
     steps:
       - name: Ping Space
         env:
