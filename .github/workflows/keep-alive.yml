@@ -16,14 +16,6 @@ jobs:
         include:
           - name: capek-mikir
             url: https://capek-mikir-7ik.pages.dev
-          - name: identity
-            url: https://andreasmlbngaol-identity.hf.space
-          - name: tomavue-fe
-            url: https://tomavue.pages.dev
-          - name: tomavue-be
-            url: https://andreasmlbngaol-tomavue-be.hf.space/api/health
-          - name: tomavue-ai
-            url: https://andreasmlbngaol-tomavue-ai.hf.space/health
           - name: booroong
             url: https://andreasmlbngaol-booroong.hf.space/swagger-ui.html
     steps:
