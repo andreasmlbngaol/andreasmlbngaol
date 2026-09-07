@@ -14,8 +14,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - name: capek-mikir
-            url: https://capek-mikir-7ik.pages.dev
+          - name: sppg-be
+            url: https://andreasmlbngaol-sppg.hf.space/keep-alive
           - name: booroong
             url: https://andreasmlbngaol-booroong.hf.space/swagger-ui.html
     steps:
