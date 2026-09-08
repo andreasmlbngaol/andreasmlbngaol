@@ -15,7 +15,7 @@ jobs:
       matrix:
         include:
           - name: sppg-be
-            url: https://andreasmlbngaol-sppg.hf.space/keep-alive
+            url: https://sppg-be.booroong.online/keep-alive
           - name: booroong
             url: https://andreasmlbngaol-booroong.hf.space/swagger-ui.html
     steps:
