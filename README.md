@@ -13,7 +13,11 @@
 - Interested in cross-platform, backend, and systems programming
 - Usually building with modern frameworks and too many side projects
 
-📫 **Reach me at:** **lgandre45@gmail.com**
+<p align="center">
+  <a href="mailto:lgandre45@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=lgandre45%40gmail.com&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/andreasmlbngaol"><img src="https://img.shields.io/static/v1?label=GitHub&message=andreasmlbngaol&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://instagram.com/andreasmlbngaol_"><img src="https://img.shields.io/static/v1?label=Instagram&message=%40andreasmlbngaol_&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
