@@ -48,6 +48,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-puce-25.vercel.app/api/top-langs/?username=andreasmlbngaol&langs_count=7&layout=compact&theme=radical&hide=javascript,html,tex,php,jupyter%20notebook" />
-  <img height="180em" src="https://github-readme-stats-eight-puce-25.vercel.app/api?username=andreasmlbngaol&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sooty-delta-13.vercel.app/api/top-langs/?username=andreasmlbngaol&langs_count=7&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,javascript" />
+  <img height="180em" src="https://github-readme-stats-sooty-delta-13.vercel.app/api?username=andreasmlbngaol&show_icons=true&theme=radical" />
 </p>
