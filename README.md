@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andreas 👋</h1>
-<h3 align="center">Building apps, backend services, and occasionally things that break in production.</h3>
+<h3 align="center">Kotlin for mobile, TypeScript for web, Python for ML.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andreasmlbngaol&label=Profile%20Views&color=7F52FF&style=flat" />
@@ -9,7 +9,7 @@
 
 ## About Me
 
-- Main focus: **Kotlin** for mobile & backend, **TypeScript** for web
+- Main focus: **Kotlin** (mobile & backend), **TypeScript** (web), **Python** (AI/ML)
 - Interested in cross-platform, backend, and systems programming
 - Usually building with modern frameworks and too many side projects
 
@@ -27,6 +27,12 @@
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,8 +47,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Also Worked With
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
