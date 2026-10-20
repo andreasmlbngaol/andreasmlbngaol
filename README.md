@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andreas 👋</h1>
-<h3 align="center">Kotlin for mobile, TypeScript for web, Python for ML.</h3>
+<h3 align="center">Kotlin for mobile & server, TypeScript for web, Python for ML.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andreasmlbngaol&label=Profile%20Views&color=7F52FF&style=flat" />
@@ -9,7 +9,7 @@
 
 ## About Me
 
-- Main focus: **Kotlin** (mobile & backend), **TypeScript** (web), **Python** (AI/ML)
+- Main focus: **Kotlin** (mobile & server), **TypeScript** (web), **Python** (AI/ML)
 - Interested in cross-platform, backend, and systems programming
 - Usually building with modern frameworks and too many side projects
 
@@ -17,13 +17,14 @@
   <a href="mailto:lgandre45@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=lgandre45%40gmail.com&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/andreasmlbngaol"><img src="https://img.shields.io/static/v1?label=GitHub&message=andreasmlbngaol&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://instagram.com/andreasmlbngaol_"><img src="https://img.shields.io/static/v1?label=Instagram&message=%40andreasmlbngaol_&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@andreasmlbngaol"><img src="https://img.shields.io/static/v1?label=TikTok&message=%40andreasmlbngaol&color=000000&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
 ---
 
 ## Tech Stack
 
-### Mobile & Kotlin
+### Kotlin (Mobile & Server)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
@@ -34,7 +35,6 @@
 ### AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Data & Infrastructure
@@ -50,15 +50,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Also Worked With
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sooty-delta-13.vercel.app/api/top-langs/?username=andreasmlbngaol&langs_count=7&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,javascript" />
+  <img height="180em" src="https://github-readme-stats-sooty-delta-13.vercel.app/api/top-langs/?username=andreasmlbngaol&langs_count=7&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,javascript,dart" />
   <img height="180em" src="https://github-readme-stats-sooty-delta-13.vercel.app/api?username=andreasmlbngaol&show_icons=true&theme=radical" />
 </p>
